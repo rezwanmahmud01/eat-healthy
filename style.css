@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.orange {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+section {
+  height: 500px;
+  display: flex;
+  padding-bottom: 100px;
+}
+.half-width img {
+  width: 100%;
+  height: 500px;
+}
+h1 {
+  font-size: 50px;
+}
+.Link-Button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-image: linear-gradient(#ff5050, #ff99cc);
+  border-radius: 10px;
+  font-weight: 700;
+  color: white;
+}
+
+.top-banner {
+  background-image: url(../eat-healthy/images/shapes/7.png);
+  background-repeat: no-repeat;
+}
+
+.midle {
+  height: 200px;
+  width: 60%;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+
+#picture {
+  margin-top: 46px;
+
+  height: 550px;
+}
+
+#pic-s {
+  width: 95%;
+  padding-top: 28px;
+  height: 280px;
+}
+#pic-r {
+  width: 95%;
+  padding-top: 30px;
+  height: 280px;
+}
+
+.shadow {
+  box-shadow: 5px 10px 22px #8a8787ab;
+  border-radius: 30px;
+}
+.subscriber {
+  margin: 50px;
+  height: 200px;
+  box-shadow: 5px 10px 22px #8a8787ab;
+  border-radius: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.number-of-subscriber {
+  width: 33%;
+  text-align: center;
+  margin-top: 40px;
+}
+footer {
+  background-color: rgba(7, 6, 6, 0.952);
+  height: 300px;
+  margin: 0;
+}
+
+.p-tag {
+  margin-top: -10px;
+}
+#footer-s {
+  margin-top: 70px;
+  text-align: center;
+  color: rgb(192, 188, 188);
+}
+#last-p {
+  color: rgb(192, 188, 188);
+  text-align: center;
+}
+.head {
+  margin: 0px;
+}
+
+.font-s {
+  margin-top: 40px;
+  font-size: 70px;
+}
