@@ -9,8 +9,9 @@ body {
   color: orange;
 }
 .half-width {
-  width: 40%;
+  width: 30%;
   margin-left: 5%;
+  margin-right: auto;
   padding-left: 2%;
 }
 section {
