@@ -9,6 +9,7 @@ body {
   color: orange;
 }
 .half-width {
+  height: fit-content;
   width: 30%;
   margin-left: 5%;
   margin-right: auto;
